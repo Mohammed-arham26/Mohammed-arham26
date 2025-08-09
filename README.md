@@ -32,15 +32,15 @@
 - Multi-door interlock system for industrial secure access
 - AT89C2051 microcontroller, Keil µVision, OrCAD
 
-### 3. [Smart Gloves for Paralyzed Patients](https://github.com/Mohammed-arham26/smart-gloves)
+### 3. [Smart Gloves for Paralyzed Patients](https://github.com/Mohammed-arham26/smart-gloves-for-paralyzed-patients)
 - Flex-sensor-based gesture recognition with haptic feedback
 - Arduino, APR33A3 voice playback module
 
-### 4. [Home Automation using IoT](https://github.com/Mohammed-arham26/home-automation-iot)
+### 4. [Home Automation using IoT](https://github.com/Mohammed-arham26/Home-automation-using-Iot)
 - IoT-enabled appliance control via NodeMCU & Blynk
 - Google Assistant/Alexa integration
 
-### 5. [GSM-Based Agriculture Automation](https://github.com/Mohammed-arham26/gsm-agriculture-automation)
+### 5. [GSM-Based Agriculture Automation](https://github.com/Mohammed-arham26/GSM-Based-Agriculture-Automation)
 - GSM + Arduino irrigation automation with soil moisture sensing
 - Remote control via SMS
 
