@@ -46,6 +46,5 @@
 
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/www.linkedin.com/in/
-mohammed-arham2608)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]www.linkedin.com/in/mohammed-arham2608)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Mohammed-arham26)
